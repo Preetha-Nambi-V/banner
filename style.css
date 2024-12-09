@@ -1,0 +1,8 @@
+.banner{
+    position: relative;
+    background-image: url(../Media/flowers_name_in_english.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: white;
+}
